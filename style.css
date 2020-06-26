@@ -1,0 +1,37 @@
+body {
+    background-color: orange;
+}
+h1 {
+    background-color: maroon;
+    color: yellow;
+}
+h2 {
+    background-color: purple;
+    color: lime;
+}
+h3 {
+    background-color: olive;
+    color: blue;
+}
+strong {
+    color: red;
+}
+em {
+    color: green;
+}
+p {
+    background-color: aqua;
+    color: fushsia;
+}
+h4 {
+    background-color: salmon;
+    color: crimson;
+}
+ul {
+    background-color: firebrick;
+    color: yellow;
+}
+ol {
+    background-color: darkred;
+    color: coral;
+}
